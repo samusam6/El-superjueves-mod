@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "forge:fjdsobuvsp_log"
+    }
+  ],
+  "result": {
+    "item": "testing_mobs:fjdsobuvsp_planks",
+    "count": 4
+  }
+}

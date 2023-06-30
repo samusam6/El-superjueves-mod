@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "testing_mobs:block/fjdsobuvsp_planks",
+    "particle": "testing_mobs:block/fjdsobuvsp_planks"
+  },
+  "render_type": "solid"
+}

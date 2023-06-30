@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "testing_mobs:block/fjdsobuvsp_leaves",
+    "particle": "testing_mobs:block/fjdsobuvsp_leaves"
+  }
+}

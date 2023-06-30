@@ -1,4 +1,14 @@
 {
+  "block.testing_mobs.fjdsobuvsp_stairs": "Fjdsobuvsp Stairs",
+  "block.testing_mobs.fjdsobuvsp_wood": "Fjdsobuvsp Wood",
+  "block.testing_mobs.fjdsobuvsp_log": "Fjdsobuvsp Log",
+  "block.testing_mobs.fjdsobuvsp_fence": "Fjdsobuvsp Fence",
+  "block.testing_mobs.fjdsobuvsp_planks": "Fjdsobuvsp Planks",
+  "block.testing_mobs.fjdsobuvsp_button": "Fjdsobuvsp Button",
+  "block.testing_mobs.fjdsobuvsp_fence_gate": "Fjdsobuvsp Fence Gate",
+  "entity.testing_mobs.enchantedice": "Enchanted ice",
+  "block.testing_mobs.fjdsobuvsp_pressure_plate": "Fjdsobuvsp Pressure Plate",
   "item.testing_mobs.enchantedice_spawn_egg": "Enchanted ice Spawn Egg",
-  "entity.testing_mobs.enchantedice": "Enchanted ice"
+  "block.testing_mobs.fjdsobuvsp_leaves": "Fjdsobuvsp Leaves",
+  "block.testing_mobs.fjdsobuvsp_slab": "Fjdsobuvsp Slab"
 }

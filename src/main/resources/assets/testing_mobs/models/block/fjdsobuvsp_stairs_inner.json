@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "testing_mobs:block/fjdsobuvsp_planks",
+    "top": "testing_mobs:block/fjdsobuvsp_planks",
+    "side": "testing_mobs:block/fjdsobuvsp_planks"
+  },
+  "render_type": "solid"
+}

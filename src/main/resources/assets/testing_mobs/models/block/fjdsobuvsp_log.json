@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "testing_mobs:block/fjdsobuvsp_log_top",
+    "up": "testing_mobs:block/fjdsobuvsp_log_top",
+    "north": "testing_mobs:block/fjdsobuvsp_log_side",
+    "east": "testing_mobs:block/fjdsobuvsp_log_side",
+    "south": "testing_mobs:block/fjdsobuvsp_log_side",
+    "west": "testing_mobs:block/fjdsobuvsp_log_side",
+    "particle": "testing_mobs:block/fjdsobuvsp_log_top"
+  },
+  "render_type": "solid"
+}

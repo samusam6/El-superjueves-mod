@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "testing_mobs:block/fjdsobuvsp_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "testing_mobs:block/fjdsobuvsp_wood"
+    },
+    "axis=z": {
+      "model": "testing_mobs:block/fjdsobuvsp_wood",
+      "x": 90
+    }
+  }
+}

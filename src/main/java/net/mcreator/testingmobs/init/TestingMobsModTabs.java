@@ -15,8 +15,18 @@ public class TestingMobsModTabs {
 	@SubscribeEvent
 	public static void buildTabContentsVanilla(CreativeModeTabEvent.BuildContents tabData) {
 
+		if (tabData.getTab() == CreativeModeTabs.REDSTONE_BLOCKS) {
+			tabData.accept(TestingMobsModBlocks.FJDSOBUVSP_FENCE_GATE.get().asItem());
+			tabData.accept(TestingMobsModBlocks.FJDSOBUVSP_PRESSURE_PLATE.get().asItem());
+		}
+
 		if (tabData.getTab() == CreativeModeTabs.SPAWN_EGGS) {
 			tabData.accept(TestingMobsModItems.ENCHANTEDICE_SPAWN_EGG.get());
+		}
+
+		if (tabData.getTab() == CreativeModeTabs.NATURAL_BLOCKS) {
+			tabData.accept(TestingMobsModBlocks.FJDSOBUVSP_LEAVES.get().asItem());
+			tabData.accept(TestingMobsModBlocks.FJDSOBUVSP_FENCE.get().asItem());
 		}
 	}
 }

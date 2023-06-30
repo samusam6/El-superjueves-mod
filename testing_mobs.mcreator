@@ -15,14 +15,306 @@
           "src/main/resources/assets/testing_mobs/models/item/enchantedice_spawn_egg.json"
         ]
       }
+    },
+    {
+      "name": "FjdsobuvspWood",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_wood.json",
+          "src/main/resources/assets/testing_mobs/blockstates/fjdsobuvsp_wood.json",
+          "src/main/java/net/mcreator/testingmobs/block/FjdsobuvspWoodBlock.java",
+          "src/main/resources/assets/testing_mobs/models/item/fjdsobuvsp_wood.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspLog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_log.json",
+          "src/main/java/net/mcreator/testingmobs/block/FjdsobuvspLogBlock.java",
+          "src/main/resources/assets/testing_mobs/models/item/fjdsobuvsp_log.json",
+          "src/main/resources/assets/testing_mobs/blockstates/fjdsobuvsp_log.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspPlanks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_planks.json",
+          "src/main/java/net/mcreator/testingmobs/block/FjdsobuvspPlanksBlock.java",
+          "src/main/resources/assets/testing_mobs/models/item/fjdsobuvsp_planks.json",
+          "src/main/resources/assets/testing_mobs/blockstates/fjdsobuvsp_planks.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspLeaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/testing_mobs/blockstates/fjdsobuvsp_leaves.json",
+          "src/main/resources/assets/testing_mobs/models/item/fjdsobuvsp_leaves.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_leaves.json",
+          "src/main/java/net/mcreator/testingmobs/block/FjdsobuvspLeavesBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/testing_mobs/blockstates/fjdsobuvsp_stairs.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_stairs_outer.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_stairs.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_stairs_inner.json",
+          "src/main/resources/assets/testing_mobs/models/item/fjdsobuvsp_stairs.json",
+          "src/main/java/net/mcreator/testingmobs/block/FjdsobuvspStairsBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_slab_full.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_slab_top.json",
+          "src/main/java/net/mcreator/testingmobs/block/FjdsobuvspSlabBlock.java",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_slab.json",
+          "src/main/resources/assets/testing_mobs/models/item/fjdsobuvsp_slab.json",
+          "src/main/resources/assets/testing_mobs/blockstates/fjdsobuvsp_slab.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspFence",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/testing_mobs/models/item/fjdsobuvsp_fence.json",
+          "src/main/java/net/mcreator/testingmobs/block/FjdsobuvspFenceBlock.java",
+          "src/main/resources/assets/testing_mobs/blockstates/fjdsobuvsp_fence.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_fence_inventory.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_fence.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_fence_post.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspFenceGate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/testingmobs/block/FjdsobuvspFenceGateBlock.java",
+          "src/main/resources/assets/testing_mobs/blockstates/fjdsobuvsp_fence_gate.json",
+          "src/main/resources/assets/testing_mobs/models/item/fjdsobuvsp_fence_gate.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_fence_gate.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_fence_gate_open.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_fence_gate_wall.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_fence_gate_wall_open.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspPressurePlate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/testing_mobs/blockstates/fjdsobuvsp_pressure_plate.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_pressure_plate.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_pressure_plate_down.json",
+          "src/main/resources/assets/testing_mobs/models/item/fjdsobuvsp_pressure_plate.json",
+          "src/main/java/net/mcreator/testingmobs/block/FjdsobuvspPressurePlateBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspButton",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_button.json",
+          "src/main/resources/assets/testing_mobs/models/item/fjdsobuvsp_button.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_button_pressed.json",
+          "src/main/resources/assets/testing_mobs/models/block/fjdsobuvsp_button_inventory.json",
+          "src/main/resources/assets/testing_mobs/blockstates/fjdsobuvsp_button.json",
+          "src/main/java/net/mcreator/testingmobs/block/FjdsobuvspButtonBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspItemsTag",
+      "type": "tag",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_items_tag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/fjdsobuvsp_log.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/testing_mobs/recipes/fjdsobuvsp_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspPlanksRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_planks_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/testing_mobs/recipes/fjdsobuvsp_planks_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspStairsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/testing_mobs/recipes/fjdsobuvsp_stairs_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspSlabRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/testing_mobs/recipes/fjdsobuvsp_slab_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspFenceRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/testing_mobs/recipes/fjdsobuvsp_fence_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspFenceGateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/testing_mobs/recipes/fjdsobuvsp_fence_gate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspPressurePlateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/testing_mobs/recipes/fjdsobuvsp_pressure_plate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspButtonRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/testing_mobs/recipes/fjdsobuvsp_button_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FjdsobuvspStickRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fjdsobuvsp_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/testing_mobs/recipes/fjdsobuvsp_stick_recipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.testing_mobs.fjdsobuvsp_stairs": "Fjdsobuvsp Stairs",
+      "block.testing_mobs.fjdsobuvsp_wood": "Fjdsobuvsp Wood",
+      "block.testing_mobs.fjdsobuvsp_log": "Fjdsobuvsp Log",
+      "block.testing_mobs.fjdsobuvsp_fence": "Fjdsobuvsp Fence",
+      "block.testing_mobs.fjdsobuvsp_planks": "Fjdsobuvsp Planks",
+      "block.testing_mobs.fjdsobuvsp_button": "Fjdsobuvsp Button",
+      "block.testing_mobs.fjdsobuvsp_fence_gate": "Fjdsobuvsp Fence Gate",
+      "entity.testing_mobs.enchantedice": "Enchanted ice",
+      "block.testing_mobs.fjdsobuvsp_pressure_plate": "Fjdsobuvsp Pressure Plate",
       "item.testing_mobs.enchantedice_spawn_egg": "Enchanted ice Spawn Egg",
-      "entity.testing_mobs.enchantedice": "Enchanted ice"
+      "block.testing_mobs.fjdsobuvsp_leaves": "Fjdsobuvsp Leaves",
+      "block.testing_mobs.fjdsobuvsp_slab": "Fjdsobuvsp Slab"
     }
   },
   "foldersRoot": {

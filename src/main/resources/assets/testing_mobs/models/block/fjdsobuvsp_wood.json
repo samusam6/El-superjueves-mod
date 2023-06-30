@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "testing_mobs:block/fjdsobuvsp_log_side",
+    "particle": "testing_mobs:block/fjdsobuvsp_log_side"
+  },
+  "render_type": "solid"
+}

@@ -33,6 +33,7 @@ import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.testingmobs.init.TestingMobsModItems;
 import net.mcreator.testingmobs.init.TestingMobsModEntities;
+import net.mcreator.testingmobs.init.TestingMobsModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -52,6 +53,7 @@ public class TestingMobsMod {
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
+		TestingMobsModBlocks.REGISTRY.register(bus);
 		TestingMobsModItems.REGISTRY.register(bus);
 		TestingMobsModEntities.REGISTRY.register(bus);
 

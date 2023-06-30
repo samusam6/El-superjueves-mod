@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "testing_mobs:block/fjdsobuvsp_slab"
+    },
+    "type=top": {
+      "model": "testing_mobs:block/fjdsobuvsp_slab_top"
+    },
+    "type=double": {
+      "model": "testing_mobs:block/fjdsobuvsp_slab_full"
+    }
+  }
+}

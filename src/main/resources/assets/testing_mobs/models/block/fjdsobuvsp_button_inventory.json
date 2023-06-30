@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "testing_mobs:block/fjdsobuvsp_planks"
+  },
+  "render_type": "solid"
+}

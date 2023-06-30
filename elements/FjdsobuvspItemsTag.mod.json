@@ -1,0 +1,21 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:FjdsobuvspWood"
+      },
+      {
+        "value": "CUSTOM:FjdsobuvspLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "fjdsobuvsp_log",
+    "namespace": "forge"
+  }
+}
