@@ -1,0 +1,53 @@
+{
+  "mod_elements": [
+    {
+      "name": "Enchantedice",
+      "type": "animatedentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchantedice",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/testingmobs/entity/model/EnchantediceModel.java",
+          "src/main/resources/data/testing_mobs/forge/biome_modifier/enchantedice_biome_modifier.json",
+          "src/main/java/net/mcreator/testingmobs/entity/EnchantediceEntity.java",
+          "src/main/java/net/mcreator/testingmobs/client/renderer/EnchantediceRenderer.java",
+          "src/main/resources/assets/testing_mobs/models/item/enchantedice_spawn_egg.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.testing_mobs.enchantedice_spawn_egg": "Enchanted ice Spawn Egg",
+      "entity.testing_mobs.enchantedice": "Enchanted ice"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "testing_mobs",
+    "modName": "testing mobçs",
+    "version": "1.0.0",
+    "author": "jesus, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.19.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.testingmobs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300224119
+}
